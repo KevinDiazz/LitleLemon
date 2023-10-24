@@ -29,9 +29,17 @@ Este proyecto es una aplicación web construida con React para gestionar reserva
 - Interfaz de usuario amigable y responsiva.
 - Utilización de React Hooks, incluyendo useState, useRef, y useEffect.
 
-![App Screenshot](https://github.com/KevinDiazz/LitleLemon/blob/master/Captura%20de%20pantalla%202023-10-24%20182556.png)
+![App Screenshot](https://github.com/KevinDiazz/LitleLemon/blob/main/Captura%20de%20pantalla%202023-10-24%20182556.png)
 
-https://github.com/KevinDiazz/LitleLemon/assets/111369033/39957eab-390e-4f57-9a9a-93ffa4ec774c
+
+
+https://github.com/KevinDiazz/LitleLemon/assets/111369033/0058a17b-aa96-44a2-9937-3a010a4d4d0b
+
+
+
+
+
+
 
 
 
